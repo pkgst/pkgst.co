@@ -1,0 +1,13 @@
+{
+  "results": [
+    {
+      "name": "sven/artisan-view",
+      "description": "Manage your views in Laravel projects through artisan",
+      "url": "https://packagist.org/packages/sven/artisan-view",
+      "repository": "https://github.com/svenluijten/artisan-view",
+      "downloads": 25000,
+      "favers": 250
+    }
+  ],
+  "total": 1
+}

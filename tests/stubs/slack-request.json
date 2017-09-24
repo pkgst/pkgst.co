@@ -1,0 +1,29 @@
+{
+  "response_type": "in_channel",
+  "attachments": [
+    {
+      "fallback": "Manage your views in Laravel projects through artisan",
+      "title": "sven/artisan-view",
+      "title_link": "https://packagist.org/packages/sven/artisan-view",
+      "text": "Manage your views in Laravel projects through artisan",
+      "mrkdwn_in": ["fields"],
+      "fields": [
+        {
+          "title": ":sparkles: Stars",
+          "value": "250",
+          "short": true
+        },
+        {
+          "title": ":arrow_down: Downloads",
+          "value": "25,000",
+          "short": true
+        },
+        {
+          "title": ":package: Install command",
+          "value": "```composer require sven/artisan-view```",
+          "short": false
+        }
+      ]
+    }
+  ]
+}

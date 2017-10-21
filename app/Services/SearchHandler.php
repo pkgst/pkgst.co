@@ -73,7 +73,7 @@ class SearchHandler
         try {
             $result = $this->client->request('GET', 'https://packagist.org/packages/'.$query.'.json');
         } catch (RequestException $e) {
-            //
+            return new PackageNotFound;
         }
 
         if ($result->getStatusCode() === 404) {

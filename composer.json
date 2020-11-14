@@ -7,7 +7,7 @@
     "require": {
         "php": ">=7.4",
         "fideloper/proxy": "^4.4",
-        "guzzlehttp/guzzle": "^6.3",
+        "guzzlehttp/guzzle": "^7.2",
         "laravel/framework": "^8.0",
         "laravel/tinker": "^2.5",
         "league/oauth2-client": "^2.2",

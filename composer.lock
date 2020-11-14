@@ -1557,16 +1557,16 @@
         },
         {
             "name": "sven/artisan-view",
-            "version": "2.0.1",
+            "version": "v2.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/svenluijten/artisan-view.git",
-                "reference": "d0c1a89f0ee9a55fab3126ff38347a4c44c3b1c1"
+                "reference": "d8a6bb1b5211a77feae73fe9bdee597cc30016cb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/svenluijten/artisan-view/zipball/d0c1a89f0ee9a55fab3126ff38347a4c44c3b1c1",
-                "reference": "d0c1a89f0ee9a55fab3126ff38347a4c44c3b1c1",
+                "url": "https://api.github.com/repos/svenluijten/artisan-view/zipball/d8a6bb1b5211a77feae73fe9bdee597cc30016cb",
+                "reference": "d8a6bb1b5211a77feae73fe9bdee597cc30016cb",
                 "shasum": ""
             },
             "require": {
@@ -1610,7 +1610,7 @@
                 "templates",
                 "views"
             ],
-            "time": "2017-09-15T06:58:37+00:00"
+            "time": "2018-01-19T22:37:48+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
@@ -2786,6 +2786,7 @@
                 "faker",
                 "fixtures"
             ],
+            "abandoned": true,
             "time": "2017-08-15T16:48:10+00:00"
         },
         {
